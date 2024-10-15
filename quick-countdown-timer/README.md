@@ -1,6 +1,6 @@
 # Quick Countdown Timer App
 
-Welcome to the Quick Countdown Timer App! This simple yet effective application allows you to set a countdown timer, adjust the countdown duration, and start or stop the timer with ease.
+Welcome to the `Quick Countdown Timer App!` This simple yet effective application, built with **Expo**, allows you to set a countdown timer, adjust the countdown duration, and start or stop the timer with ease.
 
 ## Features
 
@@ -14,7 +14,11 @@ Welcome to the Quick Countdown Timer App! This simple yet effective application 
 ### Prerequisites
 
 - **Node.js**: Ensure you have Node.js installed on your machine.
-- **React Native**: This app is built using React Native, so make sure you have the environment set up for React Native development.
+- **Expo CLI**: You’ll need the Expo CLI installed globally. You can install it with the following command:
+
+   ```bash
+   npm install -g expo-cli
+   ```
 
 ### Installation
 
@@ -36,11 +40,13 @@ Welcome to the Quick Countdown Timer App! This simple yet effective application 
    npm install
    ```
 
-4. Run the app:
+4. Run the app using Expo:
 
    ```bash
-   npm start
+   expo start
    ```
+
+5. Follow the instructions in the terminal to view the app on your device or simulator.
 
 ## Usage
 
@@ -81,5 +87,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-Thanks to the React Native community for their incredible tools and resources that make building mobile applications easier and more enjoyable!
+Thanks to the Expo and React Native community for their incredible tools and resources that make building mobile applications easier and more enjoyable!
 
